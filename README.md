@@ -7,7 +7,7 @@
  Check out the repo. Open as project with Android Studio. Press build. Send build to a device or virtual machine.
  
 ## To test right now:
- Download the APK in the .apk folder. Install on a virtual machine or device.
+[Download the APK](ready/lottie.apk). Install on a virtual machine or device.
  
 ## Animate
 Press the floating play button to see animation. It will call AnimationView.playAnimation() in FirstFragment. See the layout.xml of the fragment on how to place this view.
