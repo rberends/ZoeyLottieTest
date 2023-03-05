@@ -10,7 +10,7 @@
 [Download the APK](readme/lottie.apk). Install on a virtual machine or device.
  
 ## Animate
-Press the floating play button to see animation. It will call AnimationView.playAnimation() in FirstFragment. See the layout.xml of the fragment on how to place this view.
+Press the floating play button to see animation. It will call LottieAnimationView.playAnimation() in FirstFragment. See the layout.xml of the fragment on how to place this view.
 
 ## More information
 Lottie itself has excellent documentation, see:
